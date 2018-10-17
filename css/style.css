@@ -1,6 +1,9 @@
 body{
 	 background-color:  #39383c;
-
+	 margin: 0%;
+	 padding: 0%;
+	 height: 100%;
+	 width: 100%;
 }
 
 .header{
@@ -9,6 +12,10 @@ body{
 	height: 20px;
 }
 .left{
+	margin: 5px;
+	padding-top: 100px;
+	line-height: 4px;
+	word-spacing: 4px;
 	color: #f5f5f5;
 }
 .right{
